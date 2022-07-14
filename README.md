@@ -1,0 +1,2 @@
+# 03-Carousel-Sample
+# こちらはCarouselの簡単なサンプルですが、HTMLとCSSを用いてボタンを押すと次の写真が表示されるUIです。写真は自分が撮った写真を3枚使っており、より滑らかなトランジションのためtransformを含むfunctionを用いてCSS上で処理いたしました。
